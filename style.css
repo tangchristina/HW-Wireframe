@@ -1,6 +1,7 @@
 body {
     padding: 0;
-    margin: 0;
+    margin-left:auto ;
+    margin-right:auto;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 18px;
     color: #777;
@@ -9,8 +10,9 @@ body {
 }
 .container {
     width: 1024px;
-    margin: 0;
+    margin:0;
 }
+
 header {
     padding: 20px 0;
     margin: 100px;
